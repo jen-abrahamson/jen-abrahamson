@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub page. My name is Jenna, a Geospatial Analytics Ph.D. student in the Center for Geospatial Analytics at North Carolina State University where I study remote sensing, data fusion, and machine learning. My research and academic work ranges from change detection, image classification, to hydrologic/greenhouse gas modeling, and beyond. 
+Welcome to my GitHub page. My name is Jenna, and I'm a Geospatial Analytics Ph.D. student at North Carolina State University where I study remote sensing, data fusion, and machine learning. My research and academic work ranges from change detection, image classification, to hydrologic/greenhouse gas modeling, and beyond. 
 
 Some of the things I have been working on:
 
